@@ -2,8 +2,7 @@
 - 👀 I’m interested in web 3.0 technology
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on blockchain startups
-- 📫 How to reach me www.linkedin.com/in/ 
-prabhav-joshi-7175ba124
+- 📫 How to reach me www.linkedin.com/in/prabhav-joshi-7175ba124
 
 
 <!---
